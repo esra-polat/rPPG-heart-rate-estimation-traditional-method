@@ -1,11 +1,14 @@
-> This project is the first phase of the rPPG Based Heart Rate Estimation Using Deep Learning, which is our graduation project. You can go to the full version of the project from this link.
+> This project is the first phase of the rPPG Based Heart Rate Estimation Using Deep Learning, which is our graduation project. You can go to the full version of the project from this [link](http://https://github.com/esra-polat/rPPG-heart-rate-estimation-deep-learning-method "link").
+> #### Developers
+> * Esra POLAT - https://github.com/esra-polat
+> * Nur Deniz ÇAYLI - https://github.com/nurdenizcayli
+> * Minel SAYGISEVER - https://github.com/minelsaygisever
 
-#### Developers
-* Esra POLAT - https://github.com/esra-polat
-* Nur Deniz ÇAYLI - https://github.com/nurdenizcayli
-* Minel SAYGISEVER - https://github.com/minelsaygisever
 
-------------
+### What is rPPG (Remote Photoplethysmography)?
+rPPG is a method to estimate the heart rate (HR) of a person remotely without contact. Our project will estimate contactless HR using deep learning methods with a camera. This technology helps the patients to get rid of contact medical devices.
+
+![](https://github.com/esra-polat/rPPG-heart-rate-estimation-traditional-method/blob/main/img/tech1.png)
 
 Heart rate values were measured with UBFC dataset by adding face detection and skin segmentation to the 
 - Chrominance-based Method (CHROM)
@@ -15,10 +18,7 @@ Heart rate values were measured with UBFC dataset by adding face detection and s
 
 Finally, we compared the RMSE values obtained from these methods.
 
-
-### What is rPPG (Remote Photoplethysmography)?
-rPPG is a method to estimate the heart rate (HR) of a person remotely without contact. Our project will estimate contactless HR using deep learning methods with a camera. This technology helps the patients to get rid of contact medical devices.
-
+![](https://github.com/esra-polat/rPPG-heart-rate-estimation-traditional-method/blob/main/img/rmse1.png)
 
 In this part, we used iPhys toolbox for implementations of CHROM, GREEN, ICA and POS methods.
 #### iPhys: An Open  Non-Contact  Imaging-Based  Physiological  Measurement Toolbox
