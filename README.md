@@ -1,4 +1,4 @@
-> This project is the first phase of the rPPG Based Heart Rate Estimation Using Deep Learning, which is our graduation project. You can go to the full version of the project from this [link](http://https://github.com/esra-polat/rPPG-heart-rate-estimation-deep-learning-method "link").
+> This project is the first phase of the rPPG Based Heart Rate Estimation Using Deep Learning, which is our graduation project. You can go to the full version of the project from this [link](https://github.com/esra-polat/rPPG-heart-rate-estimation-deep-learning-method "link").
 > #### Developers
 > * Esra POLAT - https://github.com/esra-polat
 > * Nur Deniz ÇAYLI - https://github.com/nurdenizcayli
